@@ -1,0 +1,14 @@
+{
+  "name": "telespy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VasyaPupkin",
+  "license": "MIT",
+  "dependencies": {
+    "telejs": "^0.1.7-b"
+  }
+}
